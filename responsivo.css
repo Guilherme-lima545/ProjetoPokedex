@@ -1,0 +1,85 @@
+@media (max-width: 1440px) {
+    ul li {
+        margin-top: 5px;
+    }
+
+    .selecionar {
+        margin-right: 30px;
+        
+    }
+
+    .pikachu img {
+        margin-bottom: 50px;
+    }
+
+    .snorlax img {
+        padding-top: 20px;
+    }
+
+    .oshawott button {
+        margin-top: 10px;
+    }
+
+}
+
+@media (max-width: 1024px) {
+    .logo {
+        width: 150%;
+    }
+
+    ul li {
+        margin-top: 8px;
+    }
+
+    .secao {
+        width: 70%;
+    }
+}
+
+@media (max-width: 768px) {
+    .secao {
+        width: 90%;
+    }
+}
+
+@media (max-width: 425px) {
+    .logo {
+        display: none;
+    }
+
+    nav ul li {
+        margin-top: 70px;
+        margin-left: 10px;
+        margin-bottom: 15px;
+    }
+    
+    .secao {
+        grid-template-columns: repeat(1,1fr);
+    }
+
+    .selecionar {
+        margin-right: 110px;
+    }
+}
+
+
+@media (max-width: 320px) {
+   
+    .escuro {
+        margin-top: 5%;
+        margin-bottom: 20%;
+        justify-content: center;
+        margin-right: 100px;
+    }
+
+    nav ul li {
+        margin-left: 30px;
+    }
+
+    .modoclaro {
+        margin-top: 5%;
+        margin-bottom: 20%;
+        justify-content: center;
+        margin-right: 100px;
+    }
+}

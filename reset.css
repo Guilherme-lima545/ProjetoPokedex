@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0 auto;
+}
+
+@font-face {
+    font-family: "Supernormal";
+    src: url(./src/Fonte/Super\ Normal.ttf);
+}
